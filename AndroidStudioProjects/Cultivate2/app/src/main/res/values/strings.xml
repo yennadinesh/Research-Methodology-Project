@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cultivate</string>
+    <string name="todo">todo</string>
+    <string name="detect">detect</string>
+    <string name="string_textview">string_textview</string>
+    <string name="select_photo">select_photo</string>
+</resources>
